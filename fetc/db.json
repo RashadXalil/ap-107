@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rashad",
+      "surname": "xalilov",
+      "email": "rashad@code.edu.az"
+    },
+    {
+      "id": 2,
+      "name": "rashad",
+      "surname": "xalilov",
+      "email": "rashad@code.edu.az"
+    },
+    {
+      "id": 3,
+      "name": "rashad",
+      "surname": "xalilov",
+      "email": "rashad@code.edu.az"
+    },
+    {
+      "id": 4,
+      "name": "rashad",
+      "surname": "xalilov",
+      "email": "rashad@code.edu.az"
+    },
+    {
+      "id": 5,
+      "name": "rashad",
+      "surname": "xalilov",
+      "email": "rashad@code.edu.az"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "brand": "apple",
+      "model": "ipone 11",
+      "price": 1190,
+      "desc": "loremdksamodkmaskodmkoaskdmaskodmkoas"
+    },
+    {
+      "id": 2,
+      "brand": "apple",
+      "model": "ipone 11",
+      "price": 1190,
+      "desc": "loremdksamodkmaskodmkoaskdmaskodmkoas"
+    },
+    {
+      "id": 3,
+      "brand": "apple",
+      "model": "ipone 11",
+      "price": 1190,
+      "desc": "loremdksamodkmaskodmkoaskdmaskodmkoas"
+    },
+    {
+      "id": 4,
+      "brand": "apple",
+      "model": "ipone 11",
+      "price": 1190,
+      "desc": "loremdksamodkmaskodmkoaskdmaskodmkoas"
+    }
+  ]
+}
