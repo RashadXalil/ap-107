@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app__header {
+  padding: 10px;
+  margin: 0px 50px;
+}
+.app__header > h1 {
+  display: inline;
+}
+.app__header > button {
+  float: right;
+  padding: 10px;
+  display: none;
+  transition: 0.3;
+  border: none;
+  background-color: transparent;
+  color: black;
+  font-size: 20px;
+}
+.app__header > button:hover {
+  color: lightgrey;
+}
+.active {
+  display: block !important;
+}
+.dark {
+  background-color: black;
+  color: white;
+  transition: 0.3s;
+}
+.dark button {
+  color: white !important;
+}
+.custom__card {
+  border-radius: 10px;
+  height: 350px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.custom__card img {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  height: 175px;
+  width: 100%;
+}
+.custom__card__body {
+  padding: 10px;
+}
+.custom__card__body p {
+  margin: 2px;
+}
+.dark .custom__card {
+  background-color: #2b3844;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#inp > input {
+  border: none;
+}
+#inp {
+  color: lightgray;
+  width: 300px;
+  padding: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#inp > input {
+  width: 80%;
+  padding-left: 10px;
+  outline: none;
+}
+#inp > label {
+  cursor: pointer;
+}
+select {
+  width: 200px;
+  padding: 10px;
+  border: none;
+  float: right;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.dark #inp {
+  background-color: #2b3844;
+}
+.dark #inp > input {
+  background-color: #2b3844;
+  color: white;
+}
+.dark select {
+  background-color: #2b3844;
+  color: white;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
